@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lottie Mobile Minutes</string>
+    <string name="change_animation">change animation</string>
 </resources>

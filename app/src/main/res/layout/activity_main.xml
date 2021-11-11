@@ -26,6 +26,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_margin="16dp"
         android:src="@drawable/ic_baseline_switch_left_24"
-        android:contentDescription="change animation" />
+        android:contentDescription="@string/change_animation" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
